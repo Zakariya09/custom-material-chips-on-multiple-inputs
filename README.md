@@ -9,7 +9,7 @@ The project specifies how to generate chips for different search values in diffe
 # Installation
 
 
-i - Download Project 
+i - Clone Project and open in VS Code.
 
 ii - Open Terminal and run command npm i 
 
