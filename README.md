@@ -1,6 +1,8 @@
 # custom-material-chips-on-multiple-input
 
 #Introduction
+
+
 The project specifies how to generate chips for different search values in different input box so that user can ensure about search results.
 #Installation
 i - Download Project 
