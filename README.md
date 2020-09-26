@@ -5,6 +5,8 @@
 
 The project specifies how to generate chips for different search values in different input box so that user can ensure about search results.
 #Installation
+
+
 i - Download Project 
 
 ii - Open Terminal and run command npm i 
